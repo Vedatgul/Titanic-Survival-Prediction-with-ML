@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction-with-ML
+# Titanic Survival Prediction with ML
  
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
